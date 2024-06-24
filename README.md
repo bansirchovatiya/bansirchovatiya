@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bansir Chovatiya</h1>
-<h3 align="center">Analytical Talent/Aspiring Data Analytics from</h3>
+<h3 align="center">Analytical Talent/Aspiring Data Analytics </h3>
 
 - 🌱 I’m currently learning **SQL, Python, ML**
 
