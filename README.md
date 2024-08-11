@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bansir Chovatiya</h1>
 <h3 align="center">Analytical Talent/Aspiring Data Analytics </h3>
 
-- 🌱 I’m currently learning **SQL, Python, ML**
+- 🌱 I’m currently learning **SQL, Python, ML, Power BI**
 
 - 📫 How to reach me **bansir2002@gmail.com**
 
